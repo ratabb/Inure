@@ -233,7 +233,7 @@
 		<item>com.google.android.apps.analytics.</item> <!-- 223 -->
 		<item>com.google.android.gms.analytics.</item> <!-- 224 -->
 		<item>com.google.analytics.</item> <!-- 225 -->
-		<item>com.google.firebase.analytics.</item> <!-- 226 -->
+		<item>com.google.firebase.analytics.FirebaseAnalytics</item> <!-- 226 -->
 		<item>com.google.android.gms.measurement.</item> <!-- 227 -->
 		<item>com.google.firebase.firebase_analytics</item> <!-- 228 -->
 		<item>com.google.tagmanager</item> <!-- 229 -->
